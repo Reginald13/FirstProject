@@ -1,4 +1,4 @@
-![Movie Industry](https://cloudblogs.microsoft.com/industry-blog/wp-content/uploads/2017/07/17300_MSFT_CDSACustomerStoryMiBBlog_embedded1_r1_v3.jpg)
+![Movie Industry](Images/Microsoft_movie.jpg)
 
 # Microsoft Movie Industry Analysis
 
