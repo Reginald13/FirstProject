@@ -49,4 +49,4 @@ Please refer to the [Presentation Jupyter Notebook](./Presentation notebook.ipyn
 For any additional questions, please reach out to Reginald and Adebodun  ![Data Science Program](https://miro.medium.com/max/4080/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
 
 
-![Movie Industry](https://cloudblogs.microsoft.com/industry-blog/wp-content/uploads/2017/07/17300_MSFT_CDSACustomerStoryMiBBlog_embedded1_r1_v3.jpg)
+![Movie Industry](Images/Microsoft_movie.jpg)
